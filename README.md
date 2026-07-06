@@ -15,9 +15,10 @@ Repozytorium zawiera szablon pracy dyplomowej w LateXu: inżynierskiej oraz magi
 [ref:workshop]: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
 [ref:wymogi-edytorskie]: https://www.bip.pw.edu.pl/var/pw/storage/original/application/235c0fd350f44cd00253ecdfa22bae61.pdf
 
-*  [>> Overleaf <<][ref:overleaf]
+* [>> Overleaf <<][ref:overleaf]
 * [Wymogi edytorskie (Zarządzenie Rektora, 2022)][ref:wymogi-edytorskie]
 * [Wskazówki dot. kompilacji][ref:wiki]
+* Wskazówki dot. pisania jako takiego - jak pisać, i przede wszystkim *dlaczego* w ogóle pisać (poza oceną).
 
 ![](https://i.imgur.com/yeeuWpC.png)
 
