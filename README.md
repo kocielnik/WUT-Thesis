@@ -18,7 +18,7 @@ Repozytorium zawiera szablon pracy dyplomowej w LateXu: inżynierskiej oraz magi
 * [>> Overleaf <<][ref:overleaf]
 * [Wymogi edytorskie (Zarządzenie Rektora, 2022)][ref:wymogi-edytorskie]
 * [Wskazówki dot. kompilacji][ref:wiki]
-* Wskazówki dot. pisania jako takiego - jak pisać, i przede wszystkim *dlaczego* w ogóle pisać (poza oceną).
+* [Wskazówki dot. procesu pisania](https://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx) - jak pisać, i przede wszystkim *dlaczego* w ogóle pisać (poza oceną)
 
 ![](https://i.imgur.com/yeeuWpC.png)
 
